@@ -20,6 +20,6 @@
     },
     "target-dir" : "blogaggregator",
 	"require": {
-		"silverstripe/blog": "3.*"
+		"silverstripe/blog": "*"
 	}
 }

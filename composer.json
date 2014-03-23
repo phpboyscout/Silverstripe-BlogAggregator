@@ -1,5 +1,5 @@
 {
-	"name": "zucchi/blog",
+	"name": "zucchi/blogaggregator",
 	"description": "Module to replace BlogTree Page from Silverstripe Blog Module that Aggregates ALL BlohHolders even if they are not children of the Page",
 	"type": "silverstripe-module",
     "keywords" : ["silverstripe", "blog"],

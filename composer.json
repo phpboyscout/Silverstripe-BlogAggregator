@@ -1,7 +1,7 @@
 {
-	"name": "zucchi/blogaggregator",
-	"description": "Module to replace BlogTree Page from Silverstripe Blog Module that Aggregates ALL BlohHolders even if they are not children of the Page",
-	"type": "silverstripe-module",
+    "name": "zucchi/blogaggregator",
+    "description": "Module to replace BlogTree Page from Silverstripe Blog Module that Aggregates ALL BlohHolders even if they are not children of the Page",
+    "type": "silverstripe-module",
     "keywords" : ["silverstripe", "blog"],
     "license" : "BSD-3-Clause",
     "authors": [
@@ -19,7 +19,10 @@
         "source": "https://github.com/zucchi/Silverstripe-BlogAggregator"
     },
     "target-dir" : "blogaggregator",
-	"require": {
-		"silverstripe/blog": "*"
-	}
+    "require": {
+  	"silverstripe/blog": "*"
+    },
+    "extra": {
+	    "installer-name": "blogaggregator"
+    }
 }

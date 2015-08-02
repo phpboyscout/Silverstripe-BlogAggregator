@@ -1,5 +1,5 @@
 {
-    "name": "zucchi/blogaggregator",
+    "name": "phpboyscout/blogaggregator",
     "description": "Module to replace BlogTree Page from Silverstripe Blog Module that Aggregates ALL BlohHolders even if they are not children of the Page",
     "type": "silverstripe-module",
     "keywords" : ["silverstripe", "blog"],
@@ -7,16 +7,16 @@
     "authors": [
         {
             "name": "Matt Cockayne",
-            "email": "matt@zucchi.co.uk",
-            "homepage": "http://zucchi.co.uk",
+            "email": "matt@phpboyscout.uk",
+            "homepage": "http://phpboyscout.uk",
             "role": "Developer"
         }
     ],
     "support": {
         "email": "dev@zucchi.co.uk",
-        "issues": "https://github.com/zucchi/Silverstripe-BlogAggregator/issues",
-        "wiki": "https://github.com/zucchi/Silverstripe-BlogAggregator/wiki",
-        "source": "https://github.com/zucchi/Silverstripe-BlogAggregator"
+        "issues": "https://github.com/phpboyscout/Silverstripe-BlogAggregator/issues",
+        "wiki": "https://github.com/phpboyscout/Silverstripe-BlogAggregator/wiki",
+        "source": "https://github.com/phpboyscout/Silverstripe-BlogAggregator"
     },
     "target-dir" : "blogaggregator",
     "require": {
